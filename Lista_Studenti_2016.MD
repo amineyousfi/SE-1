@@ -28,6 +28,7 @@ Grupa: 1220F
 |Ursachi Tudor|https://github.com/TudorUrsachi9505/ALF|https://github.com/TudorUrsachi9505/SE|
 |Varasteanu Marius|https://github.com/wreckerr/ALF|https://github.com/wreckerr/SDE|
 |Ndeme Fabrice|https://github.com/fabricelepapi||
+|Yousfi Amine|https://github.com/amineyousfi/ALF|https://github.com/amineyousfi/SE|
 
 Grupa: 1221F
 
